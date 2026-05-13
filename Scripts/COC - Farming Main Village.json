@@ -2,7 +2,7 @@
   "Name": "COC - Farming Main Village",
   "Description": "",
   "CreatedAt": "2026-04-26T13:28:35.9667837+07:00",
-  "ModifiedAt": "2026-05-13T06:15:21.8871277+07:00",
+  "ModifiedAt": "2026-05-13T09:58:40.0805493+07:00",
   "Steps": [
     {
       "Id": "d73d21f5-6643-4d78-a4b7-9e52dc2e5ab3",
@@ -3409,7 +3409,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "82d4bfaa-1b96-4016-a747-7906d4d98058",
+      "Id": "1b086072-d514-4212-88a6-f5a5108c045e",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 17,
@@ -3426,7 +3426,7 @@
       "RandomizeMaxY": 10,
       "Text": "",
       "VariableName": "",
-      "SearchRegion": "247, 291, 104, 139",
+      "SearchRegion": "284, 288, 110, 141",
       "UseSearchRegion": true,
       "ImageTemplatePath": "",
       "ImageBytes": "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",
@@ -3447,7 +3447,7 @@
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
-      "ScreenSearchRegion": "0, 0, 0, 0",
+      "ScreenSearchRegion": "300, 332, 110, 141",
       "MemoryTag": "",
       "MemoryValue": "",
       "MemoryType": 0,
@@ -6591,7 +6591,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "46197b84-ecb2-4000-9e73-0b29d8768da8",
+      "Id": "a759dc33-1bdc-4c78-ac9f-bd0ecb0626f5",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 17,
@@ -6608,7 +6608,7 @@
       "RandomizeMaxY": 10,
       "Text": "",
       "VariableName": "",
-      "SearchRegion": "247, 291, 104, 139",
+      "SearchRegion": "291, 292, 104, 136",
       "UseSearchRegion": true,
       "ImageTemplatePath": "",
       "ImageBytes": "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",
@@ -6629,7 +6629,7 @@
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
-      "ScreenSearchRegion": "0, 0, 0, 0",
+      "ScreenSearchRegion": "304, 348, 104, 136",
       "MemoryTag": "",
       "MemoryValue": "",
       "MemoryType": 0,
