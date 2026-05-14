@@ -61,20 +61,6 @@ Use this setup for best results:
 - If image/OCR checks fail, redraw or update the affected image/OCR steps for your screen.
 - If you rename scripts, make sure any script that references another script is updated too.
 
-## Included Scripts
-
-| Script | Purpose |
-| --- | --- |
-| `COC - Farming Main Village` | [Main] Main farming flow for main village (long version). |
-| `COC - Farming Main Village (Dragon)` | [Main] Main village farming variant using dragon setup. |
-| `COC - Farming Night Village (Elixir)` | [Main] Builder/night village elixir farming flow. |
-| `COC - Farming Main` | [Main] Farming main flow controller. |
-| `COC - Deploy` | [Helper] Deployment helper script. |
-| `COC - Check Raid Result` | [Helper] Checks raid result conditions. |
-| `COC - Reconnect` | [Helper] Reconnect/reload helper. |
-| `COC - Treasure` | [Helper] Treasure/check helper. |
-| `COC - Beranda` | [Helper] Home/base screen helper. |
-
 ## Troubleshooting
 
 **Script is not visible in AutoFlow**
