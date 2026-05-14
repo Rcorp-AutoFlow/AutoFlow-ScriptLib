@@ -1,8 +1,8 @@
 {
-  "Name": "COC - Treasure",
+  "Name": "COC - [Sub] Treasure",
   "Description": "",
   "CreatedAt": "2026-05-14T00:57:44.7807802+07:00",
-  "ModifiedAt": "2026-05-14T10:15:49.8778378+07:00",
+  "ModifiedAt": "2026-05-14T15:39:38.0908744+07:00",
   "Steps": [
     {
       "Id": "a7e3b621-df7a-46b7-a009-913421a82b9f",
@@ -785,8 +785,6 @@
       "WaitForWindowTimeoutMs": 10000
     }
   ],
-  "RuntimeStepAnimationEnabled": true,
-  "RuntimeLogEnabled": true,
   "SyncBackgroundWindowSizeWithScript": false,
   "BackgroundWindowTitle": "C.O.C",
   "BackgroundAdbSerial": "127.0.0.1:5555"

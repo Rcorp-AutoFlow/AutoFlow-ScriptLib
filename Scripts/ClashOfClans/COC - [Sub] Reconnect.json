@@ -1,8 +1,8 @@
 {
-  "Name": "COC - Reconnect",
+  "Name": "COC - [Sub] Reconnect",
   "Description": "",
   "CreatedAt": "2026-05-14T00:19:37.1501155+07:00",
-  "ModifiedAt": "2026-05-14T10:13:56.2261819+07:00",
+  "ModifiedAt": "2026-05-14T15:39:20.3878152+07:00",
   "Steps": [
     {
       "Id": "58cd29b4-ef72-49d1-a8e7-532025884be4",
@@ -551,8 +551,6 @@
       "WaitForWindowTimeoutMs": 10000
     }
   ],
-  "RuntimeStepAnimationEnabled": true,
-  "RuntimeLogEnabled": true,
   "SyncBackgroundWindowSizeWithScript": false,
   "BackgroundWindowTitle": "C.O.C",
   "BackgroundAdbSerial": "127.0.0.1:5555"
