@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Beranda",
   "Description": "",
   "CreatedAt": "2026-05-14T09:16:31.2061526+07:00",
-  "ModifiedAt": "2026-05-19T00:08:51.840949+07:00",
+  "ModifiedAt": "2026-05-19T12:58:15.4949372+07:00",
   "Steps": [
     {
       "Id": "c3aab29e-1877-4347-9443-d9faccca61e4",
@@ -943,7 +943,7 @@
     {
       "Id": "94471327-fa8e-419e-a4cb-c93aa89f49bd",
       "IsEnabled": true,
-      "IsBookmarked": false,
+      "IsBookmarked": true,
       "Type": 17,
       "Label": "Find Upgrader",
       "X": 0,
@@ -1097,7 +1097,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "e5132368-b4d8-48a9-a3fe-a19d600578a5",
+      "Id": "8a54fe21-3b76-4cf3-9bce-a1f6c7be74ba",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 23,
@@ -1140,7 +1140,7 @@
       "MemoryValue": "",
       "MemoryType": 0,
       "MemoryStep": 1.0,
-      "RepeatCount": 10,
+      "RepeatCount": 20,
       "WaitMs": 500,
       "WaitMode": 0,
       "WaitImageTimeoutMs": 0,
@@ -1164,7 +1164,7 @@
       "ZoomDirection": 0,
       "ZoomTicks": 3,
       "ZoomScrollDurationMs": 300,
-      "MoveCursorToZoomPosition": true,
+      "MoveCursorToZoomPosition": false,
       "ZoomSendTarget": 0,
       "TargetWindowTitle": "",
       "WindowAction": 0,
