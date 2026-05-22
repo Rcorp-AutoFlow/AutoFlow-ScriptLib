@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Battle Check",
   "Description": "",
   "CreatedAt": "2026-05-14T00:19:37.1501155+07:00",
-  "ModifiedAt": "2026-05-22T17:05:06.087823+07:00",
+  "ModifiedAt": "2026-05-22T18:56:55.0107377+07:00",
   "Steps": [
     {
       "Id": "58cd29b4-ef72-49d1-a8e7-532025884be4",
@@ -161,7 +161,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "f8fcd2f7-c810-446e-83b7-0e79c7a96724",
+      "Id": "416de33b-bf0d-4d94-bc2a-c1951f9e5895",
       "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 18,
@@ -191,7 +191,7 @@
       "ImageReadMode": 2,
       "OcrEngine": 2,
       "ImageCompareOp": 4,
-      "ImageCompareValue": "600000",
+      "ImageCompareValue": "200000",
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": 0,
@@ -223,12 +223,12 @@
       "KeyboardSendTarget": 0,
       "ScrollDirection": 1,
       "ScrollTicks": 3,
-      "MoveCursorToScrollPosition": true,
+      "MoveCursorToScrollPosition": false,
       "ScrollSendTarget": 0,
       "ZoomDirection": 0,
       "ZoomTicks": 3,
       "ZoomScrollDurationMs": 300,
-      "MoveCursorToZoomPosition": true,
+      "MoveCursorToZoomPosition": false,
       "ZoomSendTarget": 0,
       "TargetWindowTitle": "",
       "WindowAction": 0,
@@ -239,7 +239,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "7cc64cfd-bb74-492b-b9e5-981dc238e75d",
+      "Id": "b22bd8f4-4835-4f2b-aef7-7286d034c0a3",
       "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 18,
@@ -269,7 +269,7 @@
       "ImageReadMode": 2,
       "OcrEngine": 2,
       "ImageCompareOp": 4,
-      "ImageCompareValue": "600000",
+      "ImageCompareValue": "200000",
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": 0,
@@ -301,12 +301,12 @@
       "KeyboardSendTarget": 0,
       "ScrollDirection": 1,
       "ScrollTicks": 3,
-      "MoveCursorToScrollPosition": true,
+      "MoveCursorToScrollPosition": false,
       "ScrollSendTarget": 0,
       "ZoomDirection": 0,
       "ZoomTicks": 3,
       "ZoomScrollDurationMs": 300,
-      "MoveCursorToZoomPosition": true,
+      "MoveCursorToZoomPosition": false,
       "ZoomSendTarget": 0,
       "TargetWindowTitle": "",
       "WindowAction": 0,
@@ -3049,5 +3049,5 @@
   ],
   "SyncBackgroundWindowSizeWithScript": false,
   "BackgroundWindowTitle": "C.O.C",
-  "BackgroundAdbSerial": "127.0.0.1:5555"
+  "BackgroundAdbSerial": "emulator-5554"
 }
