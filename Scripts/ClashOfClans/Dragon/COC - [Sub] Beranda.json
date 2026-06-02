@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Beranda",
   "Description": "",
   "CreatedAt": "2026-05-14T09:16:31.2061526+07:00",
-  "ModifiedAt": "2026-05-25T06:30:52.849346+07:00",
+  "ModifiedAt": "2026-06-02T17:24:01.3092262+07:00",
   "Steps": [
     {
       "Id": "c3aab29e-1877-4347-9443-d9faccca61e4",
@@ -162,7 +162,7 @@
     },
     {
       "Id": "941876b3-d206-4ed5-976b-2a18aedb21bb",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": true,
       "Type": 19,
       "Label": "Wall Check - Gold Half",
@@ -240,7 +240,7 @@
     },
     {
       "Id": "429dd248-089b-45cf-8e8f-f683f2dc44e5",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -318,7 +318,7 @@
     },
     {
       "Id": "59216d33-51e9-4932-9dd0-867dc8ca2b45",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -396,7 +396,7 @@
     },
     {
       "Id": "d6209cff-df0c-4d5c-b9fe-744f4e6c08d1",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -474,7 +474,7 @@
     },
     {
       "Id": "2fe98a7d-f1d4-4553-a55e-c68d14ff0cdb",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": true,
       "Type": 19,
       "Label": "Wall Check - Elixir Half",
@@ -552,7 +552,7 @@
     },
     {
       "Id": "84b9d8f5-b9f5-4b6f-b2c1-a9e78a6e0d0e",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -630,7 +630,7 @@
     },
     {
       "Id": "022c6828-cc4c-4ae5-ab91-93f5d9706baf",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -708,7 +708,7 @@
     },
     {
       "Id": "f37179bf-d9e1-4917-b0a1-9255b64937b6",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -2579,7 +2579,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "3d2bc411-b4b8-45a1-a514-740a9ee27690",
+      "Id": "0b9cdba1-3134-4136-b3af-8acac05c8b24",
       "IsEnabled": true,
       "IsBookmarked": true,
       "Type": 19,
@@ -2596,7 +2596,7 @@
       "RandomizeMaxY": 10,
       "Text": "",
       "VariableName": "",
-      "SearchRegion": "400, 306, 28, 9",
+      "SearchRegion": "396, 307, 55, 8",
       "UseSearchRegion": true,
       "ImageTemplatePath": "",
       "ImageBytes": "",
@@ -2613,11 +2613,11 @@
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": -1447448,
-      "ColorTolerance": 5,
+      "ColorTolerance": 2,
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
-      "ScreenSearchRegion": "417, 354, 28, 9",
+      "ScreenSearchRegion": "413, 355, 55, 8",
       "MemoryTag": "",
       "MemoryValue": "",
       "MemoryType": 0,
@@ -4061,7 +4061,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "a2b5bf25-5062-419e-b42a-9df46ca2f1d3",
+      "Id": "dcc49d53-9a60-461b-bcd6-68c4bcf3ea7b",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 19,
@@ -4095,7 +4095,7 @@
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": -1447448,
-      "ColorTolerance": 5,
+      "ColorTolerance": 2,
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
@@ -5231,7 +5231,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "e0055993-05c7-4f4b-af1d-e99a6d7ce84c",
+      "Id": "f268f033-749a-40dd-bf84-7a9a5d0d9889",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 19,
@@ -5248,7 +5248,7 @@
       "RandomizeMaxY": 10,
       "Text": "",
       "VariableName": "",
-      "SearchRegion": "400, 306, 28, 9",
+      "SearchRegion": "397, 306, 48, 7",
       "UseSearchRegion": true,
       "ImageTemplatePath": "",
       "ImageBytes": "",
@@ -5265,11 +5265,11 @@
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": -1447448,
-      "ColorTolerance": 5,
+      "ColorTolerance": 2,
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
-      "ScreenSearchRegion": "417, 354, 28, 9",
+      "ScreenSearchRegion": "414, 354, 48, 7",
       "MemoryTag": "",
       "MemoryValue": "",
       "MemoryType": 0,
@@ -6401,7 +6401,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "aa681904-33a9-4b17-a87f-af6d48188a49",
+      "Id": "3b8fcd9b-6b67-4e60-92aa-223e83339d32",
       "IsEnabled": true,
       "IsBookmarked": true,
       "Type": 19,
@@ -6418,7 +6418,7 @@
       "RandomizeMaxY": 10,
       "Text": "",
       "VariableName": "",
-      "SearchRegion": "482, 305, 50, 10",
+      "SearchRegion": "481, 305, 46, 8",
       "UseSearchRegion": true,
       "ImageTemplatePath": "",
       "ImageBytes": "",
@@ -6435,11 +6435,11 @@
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": -1052689,
-      "ColorTolerance": 5,
+      "ColorTolerance": 2,
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
-      "ScreenSearchRegion": "499, 353, 50, 10",
+      "ScreenSearchRegion": "498, 353, 46, 8",
       "MemoryTag": "",
       "MemoryValue": "",
       "MemoryType": 0,
@@ -7883,7 +7883,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "06064cff-d98a-4066-ae6a-259b13f25d6f",
+      "Id": "9c1bd9d0-7663-4d58-a0d4-4c675e0da675",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 19,
@@ -7917,7 +7917,7 @@
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": -1052689,
-      "ColorTolerance": 5,
+      "ColorTolerance": 2,
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
@@ -9053,7 +9053,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "c96a7243-1c41-47c0-92db-9697a6526e64",
+      "Id": "2368b3d6-a4ac-461f-a034-ce302aae0bbc",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 19,
@@ -9087,7 +9087,7 @@
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": -1052689,
-      "ColorTolerance": 5,
+      "ColorTolerance": 2,
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
