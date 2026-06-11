@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Beranda",
   "Description": "",
   "CreatedAt": "2026-05-14T09:16:31.2061526+07:00",
-  "ModifiedAt": "2026-06-02T17:24:01.3092262+07:00",
+  "ModifiedAt": "2026-06-10T17:36:08.2260509+07:00",
   "Steps": [
     {
       "Id": "c3aab29e-1877-4347-9443-d9faccca61e4",
@@ -162,7 +162,7 @@
     },
     {
       "Id": "941876b3-d206-4ed5-976b-2a18aedb21bb",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 19,
       "Label": "Wall Check - Gold Half",
@@ -240,7 +240,7 @@
     },
     {
       "Id": "429dd248-089b-45cf-8e8f-f683f2dc44e5",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -318,7 +318,7 @@
     },
     {
       "Id": "59216d33-51e9-4932-9dd0-867dc8ca2b45",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -396,7 +396,7 @@
     },
     {
       "Id": "d6209cff-df0c-4d5c-b9fe-744f4e6c08d1",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -474,7 +474,7 @@
     },
     {
       "Id": "2fe98a7d-f1d4-4553-a55e-c68d14ff0cdb",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 19,
       "Label": "Wall Check - Elixir Half",
@@ -552,7 +552,7 @@
     },
     {
       "Id": "84b9d8f5-b9f5-4b6f-b2c1-a9e78a6e0d0e",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -630,7 +630,7 @@
     },
     {
       "Id": "022c6828-cc4c-4ae5-ab91-93f5d9706baf",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -708,7 +708,7 @@
     },
     {
       "Id": "f37179bf-d9e1-4917-b0a1-9255b64937b6",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -11083,5 +11083,5 @@
   ],
   "SyncBackgroundWindowSizeWithScript": false,
   "BackgroundWindowTitle": "C.O.C",
-  "BackgroundAdbSerial": "emulator-5554"
+  "BackgroundAdbSerial": "127.0.0.1:5555"
 }
