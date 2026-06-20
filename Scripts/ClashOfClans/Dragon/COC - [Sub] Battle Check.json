@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Battle Check",
   "Description": "",
   "CreatedAt": "2026-05-14T00:19:37.1501155+07:00",
-  "ModifiedAt": "2026-05-22T23:10:58.676054+07:00",
+  "ModifiedAt": "2026-06-19T14:03:22.2766595+07:00",
   "Steps": [
     {
       "Id": "58cd29b4-ef72-49d1-a8e7-532025884be4",
@@ -84,7 +84,7 @@
     },
     {
       "Id": "77089658-0017-4ca5-80ed-6519baf2b9a0",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 19,
       "Label": "Check Star = 1",
@@ -162,7 +162,7 @@
     },
     {
       "Id": "416de33b-bf0d-4d94-bc2a-c1951f9e5895",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 18,
       "Label": "Check Raid Gold Finish",
@@ -240,7 +240,7 @@
     },
     {
       "Id": "b22bd8f4-4835-4f2b-aef7-7286d034c0a3",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 18,
       "Label": "Check Raid Elixir Finish",
@@ -318,7 +318,7 @@
     },
     {
       "Id": "6779265e-4a43-4a6e-a13a-e0855285b01b",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -396,7 +396,7 @@
     },
     {
       "Id": "2fba31ab-eccf-4b14-9af3-6896ad0d446d",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 18,
       "Label": "Check Raid Dark Elixir Finish",
@@ -474,7 +474,7 @@
     },
     {
       "Id": "f010f052-5ca8-4b91-b016-2824ad59db16",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -552,7 +552,7 @@
     },
     {
       "Id": "0b11b916-7aea-4fa3-b615-3f1d1d43242c",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -630,7 +630,7 @@
     },
     {
       "Id": "fe0f7ae3-ff24-45b2-b23c-02aac862e63d",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -708,7 +708,7 @@
     },
     {
       "Id": "2e17a7ea-dc37-42e0-beaf-210ac68b4e0e",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -786,7 +786,7 @@
     },
     {
       "Id": "f968e2f0-15c0-49e5-a375-cb9036b34eff",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -3049,5 +3049,5 @@
   ],
   "SyncBackgroundWindowSizeWithScript": false,
   "BackgroundWindowTitle": "C.O.C",
-  "BackgroundAdbSerial": "emulator-5554"
+  "BackgroundAdbSerial": "127.0.0.1:5555"
 }

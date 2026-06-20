@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Deploy Dragon",
   "Description": "",
   "CreatedAt": "2026-05-22T16:48:27.8923289+07:00",
-  "ModifiedAt": "2026-06-16T19:17:11.4855195+07:00",
+  "ModifiedAt": "2026-06-19T14:00:05.2113745+07:00",
   "Steps": [
     {
       "Id": "1c3d80d8-59c2-4f82-9725-ffcee377c5f7",
@@ -5545,7 +5545,7 @@
     {
       "Id": "feddb80d-324b-4b6b-b4fb-47074b5c19a7",
       "IsEnabled": true,
-      "IsBookmarked": false,
+      "IsBookmarked": true,
       "Type": 17,
       "Label": "Hero - Grand Warden",
       "X": 0,
@@ -5777,7 +5777,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "fb10f035-2424-4955-8a63-966207e5061f",
+      "Id": "98eac535-914d-4361-8211-81220f6ea52a",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 3,
@@ -5825,8 +5825,8 @@
       "WaitMode": 0,
       "WaitImageTimeoutMs": 0,
       "WaitRandomize": true,
-      "WaitRandomizeMin": 5000,
-      "WaitRandomizeMax": 7000,
+      "WaitRandomizeMin": 2000,
+      "WaitRandomizeMax": 4000,
       "SubScriptName": "",
       "JumpTargetLabel": "",
       "StopScriptTarget": 0,
@@ -5856,7 +5856,7 @@
     },
     {
       "Id": "9a2115e1-95d2-4651-8867-90a0d18903c5",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "Wait Warden Skill",
@@ -5934,7 +5934,7 @@
     },
     {
       "Id": "cd6c1305-053e-47ac-ad5a-24685ba8105c",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Hero - Warden Skill",
@@ -6012,7 +6012,7 @@
     },
     {
       "Id": "634fcf93-1068-4c9e-914b-e51128f0bb7c",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
