@@ -2,7 +2,7 @@
   "Name": "COC - [Main] Farming",
   "Description": "",
   "CreatedAt": "2026-05-14T01:05:52.7232904+07:00",
-  "ModifiedAt": "2026-05-22T16:51:43.7417085+07:00",
+  "ModifiedAt": "2026-07-16T11:40:47.5369139+07:00",
   "Steps": [
     {
       "Id": "d73d21f5-6643-4d78-a4b7-9e52dc2e5ab3",
@@ -2423,7 +2423,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "da5fa2d1-8430-44de-863a-8ff083dc1793",
+      "Id": "0a79bd47-4c2b-4795-ab47-83ec1b6af243",
       "IsEnabled": true,
       "IsBookmarked": true,
       "Type": 18,
@@ -2657,8 +2657,8 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "4aed44dc-89ad-4abf-8f4a-ddbb34144649",
-      "IsEnabled": false,
+      "Id": "bdcde908-ed02-4b25-b2cb-d3681462700c",
+      "IsEnabled": true,
       "IsBookmarked": true,
       "Type": 18,
       "Label": "Check Raid Dark Elixir",
@@ -2687,7 +2687,7 @@
       "ImageReadMode": 2,
       "OcrEngine": 2,
       "ImageCompareOp": 3,
-      "ImageCompareValue": "5000",
+      "ImageCompareValue": "8000",
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": 0,
@@ -2719,12 +2719,12 @@
       "KeyboardSendTarget": 0,
       "ScrollDirection": 1,
       "ScrollTicks": 3,
-      "MoveCursorToScrollPosition": true,
+      "MoveCursorToScrollPosition": false,
       "ScrollSendTarget": 0,
       "ZoomDirection": 0,
       "ZoomTicks": 3,
       "ZoomScrollDurationMs": 300,
-      "MoveCursorToZoomPosition": true,
+      "MoveCursorToZoomPosition": false,
       "ZoomSendTarget": 0,
       "TargetWindowTitle": "",
       "WindowAction": 0,
@@ -2736,7 +2736,7 @@
     },
     {
       "Id": "e2ee9842-7e69-45ba-8aca-915c84e8d900",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -2814,7 +2814,7 @@
     },
     {
       "Id": "22ea497a-9f69-4e86-a942-e9f10b364545",
-      "IsEnabled": false,
+      "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
