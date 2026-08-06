@@ -2,7 +2,7 @@
   "Name": "COC - [Main] Farming",
   "Description": "",
   "CreatedAt": "2026-05-14T01:05:52.7232904+07:00",
-  "ModifiedAt": "2026-07-16T11:40:47.5369139+07:00",
+  "ModifiedAt": "2026-08-06T13:47:05.4224644+07:00",
   "Steps": [
     {
       "Id": "d73d21f5-6643-4d78-a4b7-9e52dc2e5ab3",
@@ -2657,7 +2657,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "bdcde908-ed02-4b25-b2cb-d3681462700c",
+      "Id": "92a993c4-7761-43b7-895e-43fedf0bf0b9",
       "IsEnabled": true,
       "IsBookmarked": true,
       "Type": 18,
@@ -2687,7 +2687,7 @@
       "ImageReadMode": 2,
       "OcrEngine": 2,
       "ImageCompareOp": 3,
-      "ImageCompareValue": "8000",
+      "ImageCompareValue": "10000",
       "CompareOp": 0,
       "CompareValue": "",
       "TargetColorArgb": 0,
