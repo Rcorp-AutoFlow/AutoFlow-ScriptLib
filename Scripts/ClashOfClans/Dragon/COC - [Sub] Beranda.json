@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Beranda",
   "Description": "",
   "CreatedAt": "2026-05-14T09:16:31.2061526+07:00",
-  "ModifiedAt": "2026-07-31T08:38:27.6110013+07:00",
+  "ModifiedAt": "2026-10-05T09:51:01.3610893+07:00",
   "Steps": [
     {
       "Id": "c3aab29e-1877-4347-9443-d9faccca61e4",
@@ -83,7 +83,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "6234984a-6568-4f21-b366-8630c271873a",
+      "Id": "09cd29c4-cf6d-4fbb-9299-afebc22b8a3f",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 17,
@@ -111,7 +111,7 @@
       "ClickOffsetY": 0,
       "IfImageSendTo": 0,
       "ImageReadMode": 0,
-      "OcrEngine": 0,
+      "OcrEngine": 2,
       "ImageCompareOp": 0,
       "ImageCompareValue": "",
       "CompareOp": 0,
@@ -145,12 +145,12 @@
       "KeyboardSendTarget": 0,
       "ScrollDirection": 1,
       "ScrollTicks": 3,
-      "MoveCursorToScrollPosition": true,
+      "MoveCursorToScrollPosition": false,
       "ScrollSendTarget": 0,
       "ZoomDirection": 0,
       "ZoomTicks": 3,
       "ZoomScrollDurationMs": 300,
-      "MoveCursorToZoomPosition": true,
+      "MoveCursorToZoomPosition": false,
       "ZoomSendTarget": 0,
       "TargetWindowTitle": "",
       "WindowAction": 0,
@@ -1019,7 +1019,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "4d382e9d-72aa-417a-a5be-9386081b5432",
+      "Id": "934c3acf-7ef3-4ffa-829b-c1b7ced3f73a",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 7,
@@ -1081,12 +1081,12 @@
       "KeyboardSendTarget": 0,
       "ScrollDirection": 1,
       "ScrollTicks": 3,
-      "MoveCursorToScrollPosition": true,
+      "MoveCursorToScrollPosition": false,
       "ScrollSendTarget": 0,
       "ZoomDirection": 0,
       "ZoomTicks": 3,
       "ZoomScrollDurationMs": 300,
-      "MoveCursorToZoomPosition": true,
+      "MoveCursorToZoomPosition": false,
       "ZoomSendTarget": 0,
       "TargetWindowTitle": "",
       "WindowAction": 0,
@@ -1098,7 +1098,7 @@
     },
     {
       "Id": "16c1b430-dcaf-4147-abd2-9e7d0eb6690d",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 6,
       "Label": "",
@@ -1176,7 +1176,7 @@
     },
     {
       "Id": "94471327-fa8e-419e-a4cb-c93aa89f49bd",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 17,
       "Label": "Find Upgrader",
@@ -1254,7 +1254,7 @@
     },
     {
       "Id": "6643e1d0-d213-4156-bb97-b3525c362acc",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -1332,7 +1332,7 @@
     },
     {
       "Id": "8a54fe21-3b76-4cf3-9bce-a1f6c7be74ba",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 23,
       "Label": "",
@@ -1410,7 +1410,7 @@
     },
     {
       "Id": "39487bf1-aee6-4355-9b61-da7b5bb84287",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 25,
       "Label": "",
@@ -1488,7 +1488,7 @@
     },
     {
       "Id": "38ca6069-84b7-419e-bdfc-c7628f9e0568",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -1566,7 +1566,7 @@
     },
     {
       "Id": "e3522318-8d32-47f4-94c2-f0ab0c91ba0f",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 17,
       "Label": "Find Tembok_Standard_Background",
@@ -1644,7 +1644,7 @@
     },
     {
       "Id": "ef1021f3-a422-4b92-9869-2e8669fcbb56",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Find Upgrader to Close",
@@ -1722,7 +1722,7 @@
     },
     {
       "Id": "a4a3ba49-4c91-4bad-96fe-5a1647c57396",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -1800,7 +1800,7 @@
     },
     {
       "Id": "235009f4-5451-432f-9394-be5f659c5270",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -1878,7 +1878,7 @@
     },
     {
       "Id": "9c612a75-6500-4e2e-9dfb-7b060980fedf",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -1956,7 +1956,7 @@
     },
     {
       "Id": "7426018a-ea75-45d5-b8e9-bade9e05f125",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -2034,7 +2034,7 @@
     },
     {
       "Id": "b10e1dbe-fa46-4537-97b0-400133667cfa",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 17,
       "Label": "Find Tembok_White_Background",
@@ -2112,7 +2112,7 @@
     },
     {
       "Id": "16e2c708-a244-493b-849f-4733dea561f1",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Find Upgrader to Close",
@@ -2190,7 +2190,7 @@
     },
     {
       "Id": "27f3878a-6d1b-4092-a195-a4f2de7668fb",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -2268,7 +2268,7 @@
     },
     {
       "Id": "247c2b9d-456c-4d0e-be05-4b83bdaedeeb",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -2346,7 +2346,7 @@
     },
     {
       "Id": "714efb13-b64d-4fd0-b4e0-d58f7d87ad90",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -2424,7 +2424,7 @@
     },
     {
       "Id": "4d2235e1-28ed-4f55-a90f-342fc9091497",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -2502,7 +2502,7 @@
     },
     {
       "Id": "2a42a331-0ef2-46f4-bdaf-8e1e5edbcf0c",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 24,
       "Label": "",
@@ -2580,7 +2580,7 @@
     },
     {
       "Id": "e45609cb-ed3d-426e-ad04-73bfd727cf18",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -2736,7 +2736,7 @@
     },
     {
       "Id": "b19ea543-35b3-4b9b-8029-a056e59ab036",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 6,
       "Label": "",
@@ -2814,7 +2814,7 @@
     },
     {
       "Id": "0b9cdba1-3134-4136-b3af-8acac05c8b24",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 19,
       "Label": "Wall PreUp - Check Enough Gold",
@@ -2892,7 +2892,7 @@
     },
     {
       "Id": "0ac8c334-2a65-4175-a0e3-9ea57bc63e34",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 20,
       "Label": "",
@@ -2970,7 +2970,7 @@
     },
     {
       "Id": "c284f1c9-70ea-4764-9ce3-0ff5c0a534c5",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Execute Upgrade_1",
@@ -3048,7 +3048,7 @@
     },
     {
       "Id": "e51432b4-eebe-4ccd-946d-cb5d1c724580",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -3126,7 +3126,7 @@
     },
     {
       "Id": "2fb6a715-a3f4-4d4f-83be-672bc9c762ee",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -3204,7 +3204,7 @@
     },
     {
       "Id": "18cb02da-4281-4ac3-b2e6-b81af9bbcbb3",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Execute Upgrade_2",
@@ -3282,7 +3282,7 @@
     },
     {
       "Id": "a9b71dab-b8a5-4b1e-a081-49b015fabaa5",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -3360,7 +3360,7 @@
     },
     {
       "Id": "096d3434-5f51-41fd-a211-ac19585a31e4",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -3438,7 +3438,7 @@
     },
     {
       "Id": "b143df44-76fa-4794-9f0e-f07a09632a03",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Confirm OK",
@@ -3516,7 +3516,7 @@
     },
     {
       "Id": "a4ceb91e-87a8-4d49-a9c7-3e9f3e36db1b",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -3594,7 +3594,7 @@
     },
     {
       "Id": "45ef5284-225b-4177-9def-fb1761af7a44",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -3672,7 +3672,7 @@
     },
     {
       "Id": "0272dc4c-374a-4453-ae28-97ab919e88a0",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -3750,7 +3750,7 @@
     },
     {
       "Id": "0c5f5268-c2aa-4985-aeb2-b51817efe48e",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Konfirmasi",
@@ -3828,7 +3828,7 @@
     },
     {
       "Id": "d52a6a77-8a4a-45cb-a020-5fba77c1217f",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -3906,7 +3906,7 @@
     },
     {
       "Id": "e9318320-6efa-4333-80d9-ae754f5cda58",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -3984,7 +3984,7 @@
     },
     {
       "Id": "f9a790a6-6beb-48df-b829-4a70fd282d4e",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -4062,7 +4062,7 @@
     },
     {
       "Id": "52c64370-c0e3-4721-942b-3b22c10533bf",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -4140,7 +4140,7 @@
     },
     {
       "Id": "1e70d5cf-92a7-4766-a3e8-1243e9abb974",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -4218,7 +4218,7 @@
     },
     {
       "Id": "f1338056-a724-467a-9f02-739b8b805bff",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Add Wall (Last)",
@@ -4296,7 +4296,7 @@
     },
     {
       "Id": "dcc49d53-9a60-461b-bcd6-68c4bcf3ea7b",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 19,
       "Label": "Check Enough Gold",
@@ -4374,7 +4374,7 @@
     },
     {
       "Id": "4c2e48b7-2e2c-43ed-8d53-4599d37c70fd",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -4452,7 +4452,7 @@
     },
     {
       "Id": "bf0d3e7b-2201-43b8-b8cd-836b31054807",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -4530,7 +4530,7 @@
     },
     {
       "Id": "3c44fe37-64aa-4b9c-b13e-3f3a9da2312f",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -4608,7 +4608,7 @@
     },
     {
       "Id": "deaa6113-557c-430c-927f-b69e84b3f2c2",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -4686,7 +4686,7 @@
     },
     {
       "Id": "7edc2093-ab2a-4553-a797-6195c5aab5f5",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -4764,7 +4764,7 @@
     },
     {
       "Id": "ff430fa6-b497-469f-992d-fc998d59fadc",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Add Wall (First)",
@@ -4842,7 +4842,7 @@
     },
     {
       "Id": "da045709-0c1a-4694-a75f-a75306adca1a",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -4920,7 +4920,7 @@
     },
     {
       "Id": "45c016b3-fa89-469b-8ed0-563011c29d01",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -4998,7 +4998,7 @@
     },
     {
       "Id": "18d1a32b-7bcd-402d-b5ea-0b9b08336a2c",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -5076,7 +5076,7 @@
     },
     {
       "Id": "45dacb18-e48f-4185-bad9-f0cb385982c2",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Add Wall (Second)",
@@ -5154,7 +5154,7 @@
     },
     {
       "Id": "c9f53611-a1ae-4924-931a-43a5c115793e",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -5232,7 +5232,7 @@
     },
     {
       "Id": "dd9fdcd6-425e-4d61-8e7d-dec6832782ef",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -5310,7 +5310,7 @@
     },
     {
       "Id": "fcd071eb-bff4-462c-97e5-afbf63587a72",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -5388,7 +5388,7 @@
     },
     {
       "Id": "9fa122a1-e84c-4f67-877c-63da7b1697c1",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Add Wall (Max)",
@@ -5466,7 +5466,7 @@
     },
     {
       "Id": "f268f033-749a-40dd-bf84-7a9a5d0d9889",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 19,
       "Label": "Check Enough Gold",
@@ -5544,7 +5544,7 @@
     },
     {
       "Id": "2697d4e7-22b8-4b19-baec-be02c305f1dd",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -5622,7 +5622,7 @@
     },
     {
       "Id": "ae890c8b-29b2-444c-b0d0-1debb81379f8",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -5700,7 +5700,7 @@
     },
     {
       "Id": "f787eb4a-2bec-4997-bdf4-3652c2c113c0",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -5778,7 +5778,7 @@
     },
     {
       "Id": "85aa4ea1-22dd-4339-9af2-bb13823b8cc6",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -5856,7 +5856,7 @@
     },
     {
       "Id": "edac109c-c82e-4f96-a8d0-318e8052e505",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -5934,7 +5934,7 @@
     },
     {
       "Id": "dc662f2e-fc1e-4e1c-9f5c-4bf7cf840604",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 21,
       "Label": "",
@@ -6012,7 +6012,7 @@
     },
     {
       "Id": "648b9648-1cb7-46a8-b6a2-a52395643a9b",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 20,
       "Label": "",
@@ -6090,7 +6090,7 @@
     },
     {
       "Id": "efae0f92-fc26-454b-96db-02b688f0f3bf",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Decr Wall",
@@ -6168,7 +6168,7 @@
     },
     {
       "Id": "b4ea2bb4-529b-4725-8d4e-d3c1e322ccfd",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -6246,7 +6246,7 @@
     },
     {
       "Id": "61fee549-a446-4514-8abe-e7fd93a9001d",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -6324,7 +6324,7 @@
     },
     {
       "Id": "9dc9aefe-534c-4f98-980c-8d725e426dca",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -6402,7 +6402,7 @@
     },
     {
       "Id": "739fa62c-09c2-4fb3-b0fa-e0a06909a8cc",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -6480,7 +6480,7 @@
     },
     {
       "Id": "63f80ad8-a4b8-47c8-b14a-091aa4c2823f",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -6558,7 +6558,7 @@
     },
     {
       "Id": "6cbf1d96-ccb4-49d3-8b14-8e67de221f36",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -6636,7 +6636,7 @@
     },
     {
       "Id": "3b8fcd9b-6b67-4e60-92aa-223e83339d32",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 19,
       "Label": "Wall PreUp - Check Enough Elixir",
@@ -6714,7 +6714,7 @@
     },
     {
       "Id": "c74c3596-6ea8-4c21-a5d3-724922bc7897",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 20,
       "Label": "",
@@ -6792,7 +6792,7 @@
     },
     {
       "Id": "ab169c7b-fecc-465b-a7bc-9090b20b5b56",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Execute Upgrade_1",
@@ -6870,7 +6870,7 @@
     },
     {
       "Id": "fd12f27a-e90a-423a-b937-c85e5c445f2f",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -6948,7 +6948,7 @@
     },
     {
       "Id": "828a79cc-b0cf-426a-93b8-ed1983708434",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -7026,7 +7026,7 @@
     },
     {
       "Id": "a9b69368-4ddf-47a4-b346-6aec9c6b07e7",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Execute Upgrade_2",
@@ -7104,7 +7104,7 @@
     },
     {
       "Id": "8c9de71a-4d3d-43fc-aa49-835c84816894",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -7182,7 +7182,7 @@
     },
     {
       "Id": "827f3aa3-4a93-4c3f-aa9c-610c37110a5f",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -7260,7 +7260,7 @@
     },
     {
       "Id": "6bdb659c-7dcd-4701-9994-26d3236c18a1",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Confirm OK",
@@ -7338,7 +7338,7 @@
     },
     {
       "Id": "2ce369ff-acff-4014-9381-7ead228233c7",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -7416,7 +7416,7 @@
     },
     {
       "Id": "d03727d3-c56b-4c49-928a-fe700c47527e",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -7494,7 +7494,7 @@
     },
     {
       "Id": "59661239-5c0a-4cdd-8783-fd268187e3f0",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -7572,7 +7572,7 @@
     },
     {
       "Id": "ac9d949e-b591-470b-b941-eed0598f1c69",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Konfirmasi",
@@ -7650,7 +7650,7 @@
     },
     {
       "Id": "d81c1fd2-92b5-406f-b78a-dd662d4286b4",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -7728,7 +7728,7 @@
     },
     {
       "Id": "bae2506c-4981-4a14-b866-79614f2134e1",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -7806,7 +7806,7 @@
     },
     {
       "Id": "30d94284-79e5-4cc1-bff9-37dca8d13234",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -7884,7 +7884,7 @@
     },
     {
       "Id": "3f1926de-ae77-4c0e-bb5d-1d3c536b8385",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -7962,7 +7962,7 @@
     },
     {
       "Id": "c7f293d3-8425-412a-95f8-b0d3caf867d3",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -8040,7 +8040,7 @@
     },
     {
       "Id": "9f610fdf-a5a0-4b6b-9245-56f0929a0fb5",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Add Wall (Last)",
@@ -8118,7 +8118,7 @@
     },
     {
       "Id": "9c1bd9d0-7663-4d58-a0d4-4c675e0da675",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 19,
       "Label": "Check Enough Elixir",
@@ -8196,7 +8196,7 @@
     },
     {
       "Id": "0574a3d5-b790-4996-90fb-8c5732121dbe",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -8274,7 +8274,7 @@
     },
     {
       "Id": "c0196300-93e1-440e-8d70-49777c75f211",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -8352,7 +8352,7 @@
     },
     {
       "Id": "469859f3-8db0-4045-8bd4-5c04922bcb1a",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -8430,7 +8430,7 @@
     },
     {
       "Id": "bbe89ce2-8275-42c0-8151-384a1596adcc",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -8508,7 +8508,7 @@
     },
     {
       "Id": "8b5a78a9-77a7-4364-8bb4-269feed755d9",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -8586,7 +8586,7 @@
     },
     {
       "Id": "c4bebc20-83bf-4dcd-a8b4-a0219942bdeb",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Add Wall (First)",
@@ -8664,7 +8664,7 @@
     },
     {
       "Id": "a8c129d8-4d5a-4f99-9d13-f890726979d7",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -8742,7 +8742,7 @@
     },
     {
       "Id": "cdeb93b5-a525-496d-b11b-a6faf66354a8",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -8820,7 +8820,7 @@
     },
     {
       "Id": "a28c80c0-70dc-4642-bac4-554c87ab96da",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -8898,7 +8898,7 @@
     },
     {
       "Id": "f49afeda-26b7-4eb6-b22d-e8f061580f7f",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Add Wall (Second)",
@@ -8976,7 +8976,7 @@
     },
     {
       "Id": "7e6f4f83-4f02-4eb3-a570-e9239f0ed8bc",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -9054,7 +9054,7 @@
     },
     {
       "Id": "6a19beb5-c90b-468e-998e-4071877bda43",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -9132,7 +9132,7 @@
     },
     {
       "Id": "b7b0e4ad-71b6-4fbf-9985-78c3f4692c7b",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -9210,7 +9210,7 @@
     },
     {
       "Id": "f5d7ec1f-b2f8-49d6-bc14-261c03eca178",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Add Wall (Max)",
@@ -9288,7 +9288,7 @@
     },
     {
       "Id": "2368b3d6-a4ac-461f-a034-ce302aae0bbc",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 19,
       "Label": "Check Enough Elixir",
@@ -9366,7 +9366,7 @@
     },
     {
       "Id": "c7c77184-b735-432e-8f89-06070196750c",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -9444,7 +9444,7 @@
     },
     {
       "Id": "85df10cf-c465-4a17-897c-fba0117f9c69",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -9522,7 +9522,7 @@
     },
     {
       "Id": "5f416877-5d81-4afa-ad23-e695fcc9eed7",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -9600,7 +9600,7 @@
     },
     {
       "Id": "614fb92b-2e16-46c0-b5b0-ea625c01e4d0",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -9678,7 +9678,7 @@
     },
     {
       "Id": "7643fcdc-8b0b-4b62-8c27-ccb3ab0e608a",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -9756,7 +9756,7 @@
     },
     {
       "Id": "e790260c-a7cb-4500-a3fa-a1d7133fd760",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 21,
       "Label": "",
@@ -9834,7 +9834,7 @@
     },
     {
       "Id": "0c45b887-438a-4cc4-8f82-a503bf53d7b1",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Decr Wall",
@@ -9912,7 +9912,7 @@
     },
     {
       "Id": "b6645d4c-860f-4d4c-9373-8e38b6b319d9",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 20,
       "Label": "",
@@ -9990,7 +9990,7 @@
     },
     {
       "Id": "5d092e76-fdcc-422f-8eda-188e3d734ee2",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -10068,7 +10068,7 @@
     },
     {
       "Id": "df87d0f7-4542-480a-98b6-79be02bd16dd",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -10146,7 +10146,7 @@
     },
     {
       "Id": "ffe1135e-8afc-421a-a6c6-71cfaaf78960",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -10224,7 +10224,7 @@
     },
     {
       "Id": "94d4ac41-c19d-4966-a747-202ff70996a7",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -10302,7 +10302,7 @@
     },
     {
       "Id": "0a30e3c3-cb73-4563-aaa9-cd96b5bd1ace",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -10380,7 +10380,7 @@
     },
     {
       "Id": "6d7bbc94-9e09-4eee-9e63-632ea79a5441",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",

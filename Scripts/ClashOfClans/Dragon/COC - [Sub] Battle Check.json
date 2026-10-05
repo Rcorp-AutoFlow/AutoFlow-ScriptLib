@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Battle Check",
   "Description": "",
   "CreatedAt": "2026-05-14T00:19:37.1501155+07:00",
-  "ModifiedAt": "2026-08-03T16:49:39.7105069+07:00",
+  "ModifiedAt": "2026-10-05T09:45:59.0064607+07:00",
   "Steps": [
     {
       "Id": "58cd29b4-ef72-49d1-a8e7-532025884be4",
@@ -161,8 +161,8 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "34ee4be5-6bcf-444a-ae11-b69b5d210934",
-      "IsEnabled": true,
+      "Id": "3b1acc86-9077-4cb0-bb69-1ebeca5d3221",
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 18,
       "Label": "Check Raid Gold Finish",
@@ -239,8 +239,8 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "e880d9ac-d71d-4961-8c86-808db1fc308f",
-      "IsEnabled": true,
+      "Id": "f6ea3f18-3211-4463-845d-93edd2c6d6be",
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 18,
       "Label": "Check Raid Elixir Finish",
@@ -318,7 +318,7 @@
     },
     {
       "Id": "6779265e-4a43-4a6e-a13a-e0855285b01b",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 12,
       "Label": "",
@@ -395,8 +395,8 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "67c72311-d46e-4bbe-9569-d242d9c3a4a1",
-      "IsEnabled": true,
+      "Id": "feff8424-e106-4399-b5bd-72f370fb593d",
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 18,
       "Label": "Check Raid Dark Elixir Finish",
@@ -474,7 +474,7 @@
     },
     {
       "Id": "f010f052-5ca8-4b91-b016-2824ad59db16",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 12,
       "Label": "",
@@ -552,7 +552,7 @@
     },
     {
       "Id": "0b11b916-7aea-4fa3-b615-3f1d1d43242c",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -630,7 +630,7 @@
     },
     {
       "Id": "fe0f7ae3-ff24-45b2-b23c-02aac862e63d",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -708,7 +708,7 @@
     },
     {
       "Id": "2e17a7ea-dc37-42e0-beaf-210ac68b4e0e",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -1176,7 +1176,7 @@
     },
     {
       "Id": "a326405a-1bf0-400e-abfc-906f5d982dcb",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Find Akhiri Serangan",
@@ -1254,7 +1254,7 @@
     },
     {
       "Id": "3f0fee1f-c6a5-4a7b-8dd2-732438882e75",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -1332,7 +1332,7 @@
     },
     {
       "Id": "bb173995-0fdc-4269-90e7-010bdcd06969",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -1410,7 +1410,7 @@
     },
     {
       "Id": "3d725f09-ba71-483e-83db-604bad333565",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 17,
       "Label": "Find Surrender",
@@ -1488,7 +1488,7 @@
     },
     {
       "Id": "5f8f0609-5c90-4e44-8399-1b9a5923ecfb",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 3,
       "Label": "",
@@ -1566,7 +1566,7 @@
     },
     {
       "Id": "890b8f39-ee6e-4799-9aac-4fe7314fa890",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
