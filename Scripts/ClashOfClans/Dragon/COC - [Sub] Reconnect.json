@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Reconnect",
   "Description": "",
   "CreatedAt": "2026-05-14T00:19:37.1501155+07:00",
-  "ModifiedAt": "2026-05-19T04:57:25.0169669+07:00",
+  "ModifiedAt": "2026-10-07T14:34:20.2904041+07:00",
   "Steps": [
     {
       "Id": "58cd29b4-ef72-49d1-a8e7-532025884be4",
@@ -1177,5 +1177,5 @@
   ],
   "SyncBackgroundWindowSizeWithScript": false,
   "BackgroundWindowTitle": "C.O.C",
-  "BackgroundAdbSerial": "emulator-5554"
+  "BackgroundAdbSerial": "127.0.0.1:5555"
 }
