@@ -2,7 +2,7 @@
   "Name": "COC - [Main] Farming",
   "Description": "",
   "CreatedAt": "2026-05-14T01:05:52.7232904+07:00",
-  "ModifiedAt": "2026-10-22T13:44:40.6049683+07:00",
+  "ModifiedAt": "2026-11-16T22:29:08.4774879+07:00",
   "Steps": [
     {
       "Id": "d73d21f5-6643-4d78-a4b7-9e52dc2e5ab3",
@@ -1175,7 +1175,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "ff1a8b33-4b11-4472-85bd-a56a60cf3b57",
+      "Id": "59ceaa0f-791f-48f1-bb68-211a145d8c93",
       "IsEnabled": true,
       "IsBookmarked": true,
       "Type": 17,
@@ -1195,7 +1195,7 @@
       "SearchRegion": "0, 0, 0, 0",
       "UseSearchRegion": false,
       "ImageTemplatePath": "",
-      "ImageBytes": "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",
+      "ImageBytes": "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",
       "MatchThreshold": 0.9,
       "MoveCursorToFoundImage": true,
       "ClickOnFoundImage": true,
@@ -2658,7 +2658,7 @@
     },
     {
       "Id": "5e47025b-701a-442d-a878-65bdbfd78fca",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": true,
       "Type": 18,
       "Label": "Check Raid Dark Elixir",
@@ -2736,7 +2736,7 @@
     },
     {
       "Id": "e2ee9842-7e69-45ba-8aca-915c84e8d900",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 7,
       "Label": "",
@@ -2814,7 +2814,7 @@
     },
     {
       "Id": "22ea497a-9f69-4e86-a942-e9f10b364545",
-      "IsEnabled": true,
+      "IsEnabled": false,
       "IsBookmarked": false,
       "Type": 22,
       "Label": "",
@@ -5075,7 +5075,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "d035f8c7-7962-4f95-ab3c-6cf9e013f424",
+      "Id": "686e6da2-c9de-4098-a339-05a6dbcac7b0",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 3,
@@ -5129,7 +5129,7 @@
       "JumpTargetLabel": "",
       "StopScriptTarget": 0,
       "StopScriptName": "",
-      "ScriptConditionName": "COC - [Sub] Deploy Thrower",
+      "ScriptConditionName": "COC - [Sub] Deploy Dragon",
       "ScriptRunCondition": 1,
       "KeyboardAction": 0,
       "KeyboardKey": 0,
@@ -5466,6 +5466,6 @@
     }
   ],
   "SyncBackgroundWindowSizeWithScript": true,
-  "BackgroundWindowTitle": "C.O.C",
+  "BackgroundWindowTitle": "C.O.C_1",
   "BackgroundAdbSerial": "127.0.0.1:5555"
 }

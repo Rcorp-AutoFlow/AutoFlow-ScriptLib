@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Beranda",
   "Description": "",
   "CreatedAt": "2026-05-14T09:16:31.2061526+07:00",
-  "ModifiedAt": "2026-10-29T17:12:35.2439885+07:00",
+  "ModifiedAt": "2026-11-11T09:43:53.3692169+07:00",
   "Steps": [
     {
       "Id": "c3aab29e-1877-4347-9443-d9faccca61e4",
@@ -10535,13 +10535,13 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "b1566ca2-2eb0-434e-8918-cdf8215f1059",
+      "Id": "fb8df300-a19c-42e3-95f3-8821c704b7ec",
       "IsEnabled": true,
       "IsBookmarked": true,
       "Type": 19,
       "Label": "Check Storage Gold",
-      "X": 719,
-      "Y": 33,
+      "X": 1469,
+      "Y": 70,
       "ClickType": 0,
       "ClickCount": 1,
       "UseCurrentMousePos": false,
@@ -10552,7 +10552,7 @@
       "RandomizeMaxY": 10,
       "Text": "",
       "VariableName": "",
-      "SearchRegion": "607, 18, 7, 17",
+      "SearchRegion": "599, 17, 4, 14",
       "UseSearchRegion": true,
       "ImageTemplatePath": "",
       "ImageBytes": "",
@@ -10573,7 +10573,7 @@
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
-      "ScreenSearchRegion": "624, 66, 7, 17",
+      "ScreenSearchRegion": "1442, 547, 4, 14",
       "MemoryTag": "",
       "MemoryValue": "",
       "MemoryType": 0,
@@ -10613,7 +10613,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "0c0c8ab2-a5d3-4c92-a81f-5a23635bd95b",
+      "Id": "a80baeca-a559-4096-b146-d1f4f20941b5",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 19,
@@ -10630,7 +10630,7 @@
       "RandomizeMaxY": 10,
       "Text": "",
       "VariableName": "",
-      "SearchRegion": "607, 54, 6, 27",
+      "SearchRegion": "598, 46, 3, 17",
       "UseSearchRegion": true,
       "ImageTemplatePath": "",
       "ImageBytes": "",
@@ -10651,7 +10651,7 @@
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
-      "ScreenSearchRegion": "802, 98, 6, 27",
+      "ScreenSearchRegion": "1441, 576, 3, 17",
       "MemoryTag": "",
       "MemoryValue": "",
       "MemoryType": 0,
@@ -10691,7 +10691,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "40301ca8-ed35-4dea-bf4a-26560ac43da4",
+      "Id": "dda36271-5bb6-41da-b2a3-96c486d39d1a",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 19,
@@ -10708,7 +10708,7 @@
       "RandomizeMaxY": 10,
       "Text": "",
       "VariableName": "",
-      "SearchRegion": "639, 74, 7, 19",
+      "SearchRegion": "640, 83, 3, 5",
       "UseSearchRegion": true,
       "ImageTemplatePath": "",
       "ImageBytes": "",
@@ -10729,7 +10729,7 @@
       "UseWindowCoords": true,
       "DesignClientWidth": 770,
       "DesignClientHeight": 433,
-      "ScreenSearchRegion": "656, 122, 7, 19",
+      "ScreenSearchRegion": "1483, 613, 3, 5",
       "MemoryTag": "",
       "MemoryValue": "",
       "MemoryType": 0,
@@ -11316,6 +11316,6 @@
     }
   ],
   "SyncBackgroundWindowSizeWithScript": false,
-  "BackgroundWindowTitle": "C.O.C",
-  "BackgroundAdbSerial": "127.0.0.1:5555"
+  "BackgroundWindowTitle": "C.O.C_4",
+  "BackgroundAdbSerial": "127.0.0.1:5605"
 }

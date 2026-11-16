@@ -2,7 +2,7 @@
   "Name": "COC - [Sub] Battle Check",
   "Description": "",
   "CreatedAt": "2026-05-14T00:19:37.1501155+07:00",
-  "ModifiedAt": "2026-10-22T13:24:47.141419+07:00",
+  "ModifiedAt": "2026-11-13T09:16:59.1437109+07:00",
   "Steps": [
     {
       "Id": "58cd29b4-ef72-49d1-a8e7-532025884be4",
@@ -2735,7 +2735,7 @@
       "WaitForWindowTimeoutMs": 10000
     },
     {
-      "Id": "cfa39617-70e3-43b5-b098-14437f1f9313",
+      "Id": "f3cc8bbd-bbe7-4064-a9e5-e8f658df09a9",
       "IsEnabled": true,
       "IsBookmarked": false,
       "Type": 11,
@@ -2787,8 +2787,8 @@
       "WaitRandomizeMax": 1000,
       "SubScriptName": "",
       "JumpTargetLabel": "",
-      "StopScriptTarget": 0,
-      "StopScriptName": "",
+      "StopScriptTarget": 1,
+      "StopScriptName": "COC - [Sub] Battle Check",
       "ScriptConditionName": "",
       "ScriptRunCondition": 0,
       "KeyboardAction": 0,
@@ -3048,6 +3048,6 @@
     }
   ],
   "SyncBackgroundWindowSizeWithScript": false,
-  "BackgroundWindowTitle": "C.O.C",
-  "BackgroundAdbSerial": "127.0.0.1:5555"
+  "BackgroundWindowTitle": "",
+  "BackgroundAdbSerial": ""
 }
